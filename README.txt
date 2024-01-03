@@ -4,3 +4,6 @@ http://senada-cam.test/function/index1.php
 
 username : admin
 password : admin
+
+Laravel versi 5
+PHP versi 7
