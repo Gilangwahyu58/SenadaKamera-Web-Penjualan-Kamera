@@ -1,3 +1,7 @@
+HALAMAN PELANGGAN: 
+http://localhost/senada-cam
+http://senada-cam.test
+
 HALAMAN ADMIN: 
 http://localhost/senada-cam/function/index1.php
 http://senada-cam.test/function/index1.php
